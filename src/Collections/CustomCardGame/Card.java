@@ -58,9 +58,4 @@ public class Card {
   public Characters getName() {
     return name;
   }
-
-
-
-  
-  
 }
